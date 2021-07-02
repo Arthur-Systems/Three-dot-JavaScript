@@ -1,0 +1,28 @@
+{
+    "name": "three.javascript",
+    "version": "1.0.0",
+    "description": "Threejs Project",
+    "main": "vite.config.js",
+    "dependencies": {
+        "rollup-plugin-copy": "^3.4.0",
+        "three": "^0.130.0",
+        "vite": "^2.3.8"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Arthur-Systems/Three.JavaScript.git"
+    },
+    "author": "Arthur",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Arthur-Systems/Three.JavaScript/issues"
+    },
+    "homepage": "https://github.com/Arthur-Systems/Three.JavaScript#readme"
+}
