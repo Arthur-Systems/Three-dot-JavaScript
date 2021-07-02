@@ -1,8 +1,12 @@
 <div align = "center">
 <!-- <img src="https://dsm01pap002files.storage.live.com/y4mhXjC5AERnEOWxV0WJ9a6TGEYHmR1bAATBAEpw0LrFeNWIfm2oy-HqAcCHcI5AOXsL_nyOBsodQW9DDpOq0YbVqQQ2f9ZNENTqNFSQ35ibHkYrpjOnZjJUQwlWswoigBu7BR8D7yYxtVWNjfWV9efs-ijtR0PBJGPj3ZF8ktmCPXpjOgUs7xapHVGPdWv5gTC?width=945&height=214&cropmode=none" style = "width:100%;"> -->
 
-<h2> Three . Javascript Project</h2>
+<h2> Three(dot)Javascript Project</h2>
 <p> Thank you for checking out this project! I am always seeking ways to improve myself and this starting this project is no exception. This Git Repo will be documenting my progress through learning how to use the three JS library.</p>
+</div>
+<h3> View My Project Timeline: </h3>
+<div align="left"> 
+<a href="https://timelines.gitkraken.com/timeline/cc530cf2d448402182e0c76049afd70f" target="_blank"> <img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/gitkraken-logo-light-hz-1.png" alt="Html5" width="auto" height="auto"/> </a> 
 </div>
 <h3> What I am using for this project</h3>
 <div align="left"> 
@@ -19,4 +23,4 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  </div> 
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/8736448c-411c-41ef-ada2-1f72aea027d1/deploy-status)](https://app.netlify.com/sites/competent-liskov-0381a2/deploys) -->
+
