@@ -6,7 +6,7 @@
 </div>
 <h3> View My Project Timeline: </h3>
 <div align="left"> 
-<a href="https://timelines.gitkraken.com/timeline/cc530cf2d448402182e0c76049afd70f" target="_blank"> <img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/gitkraken-logo-light-hz-1.png" alt="Html5" width="auto" height="auto"/> </a> 
+<a href="https://timelines.gitkraken.com/timeline/cc530cf2d448402182e0c76049afd70f" target="_blank"> <img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-dark-hz.png" alt="Html5" width="auto" height="auto"/> </a> 
 </div>
 <h3> What I am using for this project</h3>
 <div align="left"> 
